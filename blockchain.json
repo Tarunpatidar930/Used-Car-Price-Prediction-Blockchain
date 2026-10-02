@@ -1,0 +1,28 @@
+[
+    {
+        "block": 0,
+        "time": "2026-10-02 23:43:13.787307",
+        "car": "Genesis Block",
+        "price": 0,
+        "previous_hash": "0",
+        "hash": "3c39137ad6ae0c46f60d6b62e42dcccfdbd8ca48f4b04a369c7de53d83f44a08"
+    },
+    {
+        "block": 1,
+        "time": "2026-10-02 23:53:50.205787",
+        "car": {
+            "Brand": "Maruti",
+            "Model": "City",
+            "Year": 2021,
+            "Kilometers": 35000,
+            "Fuel": "Petrol",
+            "Transmission": "Manual",
+            "Engine": 1498,
+            "Mileage": 18.4,
+            "Owner": 0
+        },
+        "price": 4.825542673105088,
+        "previous_hash": "3c39137ad6ae0c46f60d6b62e42dcccfdbd8ca48f4b04a369c7de53d83f44a08",
+        "hash": "c2f14fad261530a3925e6220218774b674517c14448112e829d0049a0403e2ca"
+    }
+]
